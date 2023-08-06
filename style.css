@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    font-size: 16px;
     color: #404259;
 }
 
@@ -12,14 +13,13 @@ header {
 
 #header-container {
     display: flex;
-    height: 200px;
-    padding-top: 10px;
+    height: 250px;
     justify-content: center;
 }
 
 img {
     position: relative;
-    top: 20px;
+    top: 70px;
     height: 220px;
     border: 5px solid #63657b;
     border-radius: 50%;
@@ -29,13 +29,16 @@ img {
     display: flex;
     flex-direction: column;
     align-items: end;
-    height: 100px;
     color: #fdfbfa;
+    margin-top: auto;
 }
 
 #header-infos h1 {
     color: #fdfbfa;
     font-family: 'League Spartan', sans-serif;
+    margin: 0;
+    padding-bottom: 20px;
+    margin: -10px 0 0 10px;
 }
 
 #header-infos a {
@@ -51,18 +54,17 @@ img {
 #links {
     display: flex;
     flex-direction: column;
-    position: relative;
-    top: 20px;
     align-items: end;
+    padding-bottom: 20px;
 }
 
 #links a {
-    margin-bottom: 2px;
     line-height: 22px;
 }
 
 main {
-    margin: 0 100px;
+    max-width: 800px;
+    margin: 0 auto;
     background-color: #fdfbfa;
     align-items: center;
 }
@@ -76,10 +78,12 @@ main {
 #sobre-mim h3 {
     font-family: 'League Spartan', sans-serif;
     color: #63657b;
-    font-size: 26px;
+    font-size: 28px;
+    margin: 0;
 }
 
 #sobre-mim p {
+    text-align: center;
     font-family: 'Montserrat', sans-serif;
     color: #404259;
     font-weight: 500;
@@ -92,24 +96,28 @@ main {
 }
 
 #experiencia-profissional {
-    padding-right: 60px;
+    padding-right: 30px;
     grid-row: span 2;
 }
 
 #experiencia-profissional h3 {
     font-family: 'League Spartan', sans-serif;
     color: #63657b;
-    font-size: 26px;
+    font-size: 28px;
 }
 
 #experiencia-profissional p {
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     color: #404259;
+    font-weight: 300;
+    margin: 0;
+    line-height: 25px;
+    margin-bottom: 10px;
 }
 
 #experiencia-profissional #xp {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 #experiencia-profissional #xp p:nth-child(1) {
@@ -127,10 +135,12 @@ main {
 #formacao-academica h3 {
     font-family: 'League Spartan', sans-serif;
     color: #63657b;
-    font-size: 26px;
+    font-size: 28px;
 }
 
 #formacao-academica p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
     margin-top: 0;
 }
 
@@ -147,6 +157,6 @@ main {
 #tecnologias h3 {
     font-family: 'League Spartan', sans-serif;
     color: #63657b;
-    font-size: 26px;
-    margin: 0;
+    font-size: 28px;
+    margin-bottom: 0;
 }
