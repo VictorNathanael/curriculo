@@ -13,7 +13,7 @@ Você pode acessar meu currículo online através do GitHub Pages: [Currículo -
 ## Contato
 
 - **LinkedIn:** [victornathanael](https://www.linkedin.com/in/victornathanael/)
-- **GitHub:** [VictorNathanael](https://github.com/VictorNathanael)
+- **GitHub:** [victornathanael](https://github.com/VictorNathanael)
 - **E-mail:** victornathanael15@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo caso tenha alguma dúvida ou queira saber mais sobre minhas experiências e habilidades.
