@@ -148,6 +148,7 @@ main {
     position: relative;
     bottom: 10px;
     grid-column: 2;
+    padding-left: 20px;
 }
 
 #tecnologias ul {
