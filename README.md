@@ -8,7 +8,7 @@ O currículo foi construído utilizando HTML para estruturar o conteúdo e CSS p
 
 ## Acesso ao Currículo
 
-Você pode acessar meu currículo online através do link do GitHub Pages: [Currículo - Victor Nathanael](https://victornathanael.github.io/curriculo/)
+Você pode acessar meu currículo online através do GitHub Pages: [Currículo - Victor Nathanael](https://victornathanael.github.io/curriculo/)
 
 ## Contato
 
